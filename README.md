@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit Kumar
-- 👀 System Engineer with 3.9 years of hands-on experience in Linux/Windows environments, server administration, networking, troubleshooting, system monitoring, optimizing system performance, ensuring network security and maintaining IT systems.
+- 👀 Software Engineer with 4 years of hands-on experience in Backend Development (Java/SpringBoot)
 - 🌱 I’m currently enrolled in Scaler Neovarsity in the Software Development Program for MSc. Computer Science
 - 💞️ I’m looking to collaborate on Java Backend projects
 - 📫 How to reach me - ak.onlyjobs@gmail.com
